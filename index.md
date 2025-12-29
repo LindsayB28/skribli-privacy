@@ -7,9 +7,14 @@ Skribli, LLC (“Skribli,” “we,” “us,” or “our”) respects your pri
 Information We Collect
 User Content
 
-Photos and Images: Photos you upload are processed solely to generate black-and-white line-art coloring pages. Original photos are not retained after processing. Only derived, non-identifying line-art images may be stored as needed to fulfill your order, support reorders, or provide customer support.
+Photos and Images:
+Photos you upload are used solely for the purpose of generating black-and-white line-art coloring pages. Skribli does not retain or have access to users’ original uploaded photos. Original photos remain on the user’s device and are processed transiently through third-party AI services to create line-art outputs.
 
-Other User Content: Captions, dedication text, book titles, and page arrangements you choose to include in your coloring book.
+Derived Images and PDFs:
+The line-art coloring pages, colorized line-art cover, and final print-ready PDF(s) generated from your photos may be stored by Skribli as needed to fulfill your order, support reorders, provide customer support, or perform quality assurance.
+
+Other User Content:
+Captions, dedication text, book titles, and page arrangements you choose to include in your coloring book.
 
 Order & Contact Information
 
@@ -57,7 +62,9 @@ We do not sell or rent your personal information or images.
 
 Data Retention
 
-Derived line-art images may be stored for a limited period to support order fulfillment, reorders, quality assurance, or customer support, after which they may be deleted.
+Original uploaded photos are not retained by Skribli.
+
+Derived line-art images, colorized covers, and final PDF files may be stored for order fulfillment, reorders, quality assurance, or customer support and may be deleted at Skribli’s discretion or upon request.
 
 Order records and non-image metadata may be retained as required for accounting and legal compliance.
 
@@ -65,7 +72,7 @@ Your Rights
 
 You may request:
 
-Deletion of stored photos or derived images
+Deletion of stored derived images or PDFs
 
 A copy of your personal information
 
@@ -80,7 +87,7 @@ We use reasonable administrative, technical, and organizational safeguards to pr
 
 Children’s Privacy
 
-Skribli is intended for adults. Users under 18 must have parental or guardian consent. We do not knowingly collect personal data from children under 13.
+Skribli is intended for a general audience. Users under 18 should have parental or guardian permission to use the Service. We do not knowingly collect personal data from children under 13.
 
 International Users
 
